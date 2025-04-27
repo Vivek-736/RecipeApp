@@ -1,4 +1,3 @@
-"""
 # 🍴 My Recipe App
 
 This is a simple recipe app that utilizes a third-party API to fetch and display random dishes.  
@@ -27,4 +26,3 @@ This app is ideal for:
 *(Screenshots coming soon!)*  
 
 ---
-"""
